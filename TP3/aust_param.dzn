@@ -1,0 +1,4 @@
+Vertices = {wa, nt, sa, q, nsw, v};
+NbEdges = 1..9;
+Edges1 = [wa, wa, nt, nt, sa, sa, sa, q, nsw];
+Edges2 = [nt, sa, sa, q, q, nsw, v, nsw, v];
